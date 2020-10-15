@@ -51,6 +51,9 @@ See my full list of extensions [here](https://gist.github.com/r-parikh/bc8e49183
     "terminal.integrated.fontSize": 14,
     "editor.fontFamily": "Anonymous Pro",
     "editor.fontSize": 14,
+    "terminal.integrated.shell.osx": "/bin/zsh",
+    "terminal.external.osxExec": "iTerm.app",
+    "terminal.integrated.fontFamily": "MesloLGS NF",
     "editor.detectIndentation": true,
     "eslint.enable": true,
     "eslint.validate": [
