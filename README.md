@@ -81,4 +81,5 @@ See my full list of extensions [here](https://gist.github.com/r-parikh/bc8e49183
     "[jsonc]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     }
-}```
+}
+```
